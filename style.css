@@ -1,0 +1,23 @@
+  #but1 {
+  color: #fff;
+  text-decoration: none;
+  user-select: none;
+  background: rgb(0,103,245);
+  padding: .7em 1.5em;
+  outline: none;
+  border-radius: 10px;
+}
+#but1:hover { background: rgb(89,122,245); }
+#but1:active { background: rgb(89,122,245); }
+
+.button2 {
+  color: #fff;
+  text-decoration: none;
+  user-select: none;
+  background: rgb(0,210,0);
+  padding: .7em 1.5em;
+  outline: none;
+  border-radius: 10px;
+}
+.button2:hover { background: rgb(0,230.0); }
+.button2:active { background: rgb(0,230,0); }
